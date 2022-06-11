@@ -21,11 +21,10 @@ your preferred bookmaker and what market you would like to see.
 ---------------------------------------------
 Markets
 ---------------------------------------------
-h2h
-- Head to Head/Moneyline
-h2h_lay
-- Head to Head (Betting particular team will lose)
-spreads
-- Points handicaps
-totals 
-- Over/Under
+
+<ul>
+  <li>h2h <ul><li>Head to Head/MoneyLine</li></ul> </li>
+  <li>spreads<ul><li>Points Handicap</li></ul></li>
+  <li>totals<ul><li>Over/Under</li></ul></li>
+  <li>h2h_lay<ul><li>Head to Head (Betting team will lose)</li></ul></li>
+</ul>
