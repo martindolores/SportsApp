@@ -8,7 +8,7 @@ This application provides users the ability to view a selection of sports and th
 you must update the API key.
 
 The API I used for this application is called "The Odds API" and can be found here: https://the-odds-api.com/. Apply for an API Key, insert your API key in the classes
-found in sportsapp/classes. This will add the connection and your as good as gold! :) 
+found in sportsapp/classes. This will add the connection and your as good as gold! 	:smile: 
 
 ---------------------------------------------
 Functionality
