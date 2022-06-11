@@ -12,7 +12,7 @@ namespace SportsApp.classes
 {
     class sportsMatches
     {
-        const string APIKey = "3c8ba40f35c547b0a67a7286aa7538e3";
+        const string APIKey = "####";
 
 
         public List<sportsMatches.Root> GetMatches(string SPORT_KEY)
