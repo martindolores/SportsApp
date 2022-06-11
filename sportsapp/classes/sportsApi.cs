@@ -12,7 +12,7 @@ namespace SportsApp.classes
 {
     class sportsApi
     {
-        const string APIKey = "3c8ba40f35c547b0a67a7286aa7538e3";
+        const string APIKey = "######";
         string url = $"https://api.the-odds-api.com/v4/sports/?apiKey={APIKey}";
 
         public List<sportsApi.Root> getSports()
